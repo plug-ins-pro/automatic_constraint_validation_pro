@@ -1,7 +1,7 @@
 {
   "name" : "Automatic Constraint Validation Pro",
   "version" : "22.1",
-  "description" : "APEX Dynamic Action plug-in for automatic database-driven constraint validations. Instant format, limit, and constraint validations for SQL table/view-based APEX Forms and Interactive Grids. Inform your users about data integrity problems with clear explanations in real-time at the input fields.  Explain problems and suggest solutions.  10x faster than the free version.",
+  "description" : "Ever wish you could inform your users that there is a problem with the data they have entered, in real-time, as they are entering it and before they attempt to save?  Automatic Constraint Validation Pro does exactly that.  The plug-in provides automatic, database-driven validations for SQL table/view-based APEX Forms and Interactive Grids. Save your users from the frustration of entering and correcting problematic data before they even realize it.",
   "keywords" : ["validation","constraint"],
   "homepage" : "https://www.plug-ins-pro.com/",
   "bugs" : {
