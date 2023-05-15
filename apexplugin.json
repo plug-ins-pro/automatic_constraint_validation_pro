@@ -1,35 +1,36 @@
 {
-  "name" : "Automatic Constraint Validation Pro",
-  "version" : "22.1",
-  "description" : "Ever wish you could inform your users that there is a problem with the data they have entered, in real-time, as they are entering it and before they attempt to save?  Automatic Constraint Validation Pro does exactly that.  The plug-in provides automatic, database-driven validations for SQL table/view-based APEX Forms and Interactive Grids. Save your users from the frustration of entering and correcting problematic data before they even realize it.",
-  "keywords" : ["validation","constraint"],
-  "homepage" : "https://www.plug-ins-pro.com/",
-  "bugs" : {
-    "url" : "https://github.com/plug-ins-pro/automatic-constraint-validation-pro/issues",
-    "email" : "support@plug-ins-pro.com"
-  },
-  "license" : "Commercial",
-  "commercial" : "Yes",
-  "commercially_supported":"Yes",
-  "author" : {
-    "name" : "United Codes",
-    "email" : "info@plug-ins-pro.com",
-    "url" : "https://www.united-codes.com/"
-  },
-  "repository" : {
-    "type" : "git",
-    "url" : "https://github.com/plug-ins-pro/automatic-constraint-validation-pro"
-  },
- "oracle" : {
-    "versions" :  ["12.2.0.1","18.x","19.x", "21.x"],
-    "apex" : {
-      "versions" : ["19.2.0","20.1.0", "20.2.0", "21.1.0", "21.2.x"],
-      "plugin" : {
-        "internalName" : "UNITEDCODES_CONSTRAINT_VALIDATION",
-        "type" : "dynamic action",
-        "demo" : "https://www.plug-ins-pro.com/ords/pluginspro_web/r/auto_constraint_validation/home",
-        "previewImage" : "https://www.plug-ins-pro.com/ords/pluginspro_web/r/511/files/static/v43/IG-Report%20-%20Composite%20Key%20Validation.png"
+    "name" : "Automatic Constraint Validation Pro",
+    "version" : "22.1",
+    "description" : "Ever wish you could inform your users that there is a problem with the data they have entered, in real-time, as they are entering it and before they attempt to save?  Automatic Constraint Validation Pro does exactly that.  The plug-in provides automatic, database-driven validations for SQL table/view-based APEX Forms and Interactive Grids. Save your users from the frustration of entering and correcting problematic data before they even realize it.",
+    "keywords" : ["validation","constraint"],
+    "homepage" : "https://www.plug-ins-pro.com/",
+    "bugs" : {
+      "url" : "https://github.com/plug-ins-pro/automatic-constraint-validation-pro/issues",
+      "email" : "support@plug-ins-pro.com"
+    },
+    "license" : "Commercial",
+    "commercial" : "Yes",
+    "commercially_supported":"Yes",
+    "author" : {
+      "name" : "United Codes",
+      "email" : "info@plug-ins-pro.com",
+      "url" : "https://www.united-codes.com/"
+    },
+    "repository" : {
+      "type" : "git",
+      "url" : "https://github.com/plug-ins-pro/automatic-constraint-validation-pro"
+    },
+   "oracle" : {
+      "versions" :  ["12.2.0.1","18.x","19.x", "21.x"],
+      "apex" : {
+        "versions" : ["19.2.0","20.1.0", "20.2.0", "21.1.0", "21.2.x"],
+        "plugin" : {
+          "internalName" : "UNITEDCODES_CONSTRAINT_VALIDATION",
+          "type" : "dynamic action",
+          "demo" : "https://www.plug-ins-pro.com/ords/pluginspro_web/r/auto_constraint_validation/home",
+          "previewImage" : "https://www.plug-ins-pro.com/ords/pluginspro_web/r/511/files/static/v43/IG-Report%20-%20Composite%20Key%20Validation.png"
+        }
       }
     }
   }
-}
+  
