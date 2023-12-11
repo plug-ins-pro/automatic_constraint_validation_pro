@@ -27,8 +27,8 @@
         "plugin" : {
           "internalName" : "UNITEDCODES_CONSTRAINT_VALIDATION",
           "type" : "dynamic action",
-          "demo" : "https://www.plug-ins-pro.com/ords/pluginspro_web/r/auto_constraint_validation/home",
-          "previewImage" : "https://www.plug-ins-pro.com/ords/pluginspro_web/r/511/files/static/v43/IG-Report%20-%20Composite%20Key%20Validation.png"
+          "demo" : "https://www.united-codes.com/ords/pluginspro_web/r/auto_constraint_validation/home",
+          "previewImage" : "https://www.united-codes.com/ords/pluginspro_web/r/511/files/static/v43/IG-Report%20-%20Composite%20Key%20Validation.png"
         }
       }
     }
